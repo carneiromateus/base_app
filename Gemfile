@@ -32,6 +32,7 @@ gem 'devise-i18n'
 gem 'high_voltage'
 gem 'jquery-rails'
 gem 'passenger'
+gem 'paperclip'
 group :development do
   gem 'better_errors'
   gem 'hub', :require=>nil
